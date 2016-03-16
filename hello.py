@@ -1,6 +1,11 @@
 this is a git practice file
 
+git help >> gives you list of commands
+git commit -h >> gives all the flags you can use
+
 git add 'file' >> commits the change
+git add . >> adds everything in the directory
+git commit -am >> adds all files in directory and lets you add comment
 git status >> allows you to see what is the status of the repository
 
 git commit -m " " >> adding a comment to the code
