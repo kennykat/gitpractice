@@ -18,3 +18,14 @@
 # -u >> directs your pushes to the repo you tell it,
 # or defaults to the previous repository
 # git push >> sends code to repository
+
+# git rm -rf "repo name" >> deletes the repo and all it entails
+# git clone "repo https from github" >> clones a repo from github onto your local host
+
+# git pull takes what has been changed online to your local host
+
+
+
+
+
+## terminal python --version >> shows python running on OS
