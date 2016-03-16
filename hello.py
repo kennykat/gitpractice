@@ -17,3 +17,4 @@
 # master is the name of the branch
 # -u >> directs your pushes to the repo you tell it,
 # or defaults to the previous repository
+# git push >> sends code to repository
